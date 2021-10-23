@@ -48,7 +48,7 @@ namespace cerati
             }
             else
             {
-                error("La durata del viaggio non può superare i 15 giorni.");
+                error("La durata del viaggio non può superare i 15 giorni!");
                 return;
             }
 
